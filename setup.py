@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-_version = '0.1'
+_version = '0.1.1'
 _packages = find_packages()
 _short_description = 'pylint-web2py is a Pylint plugin to help reduce false ' \
     'positives due to web2py implicit imports'
