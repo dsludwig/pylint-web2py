@@ -1,0 +1,2 @@
+A dead simple pylint plugin to avoid a lot of false positives when linting
+web2py applications.
